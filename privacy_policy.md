@@ -12,10 +12,6 @@ The app has no internet access, so it is not sending anything outside the device
 
 The app does not collect any personal identifiable information.
 
-### Permission
-
-The `READ_EXTERNAL_STORAGE` permission is used to let users browse for and import *.txt* files from their storage. The permission can be revoked if the feature is not used.
-
 ### Changes to the Policy
 
 If the policy changes, the modification date below will be updated. The policy may change from time to time, so please be sure to check back periodically.
