@@ -2,7 +2,7 @@
 
 ### General
 
-**Simple Teleprompter Relaunched** was developed and released by Julian Schakib in Januar 2023.
+**Simple Teleprompter Relaunched** was developed and released by Julian Schakib in January 2023.
 
 ### Privacy Policy
 
