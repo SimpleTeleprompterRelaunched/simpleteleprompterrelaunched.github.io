@@ -6,7 +6,7 @@ This is the privacy policy for the app. It describes how information obtained fr
 
 By using the app, you agree that your personal information will be handled as described in this policy.
 
-The app has no internet access, so it is not sending anything outside the device whatsoever. All user data can be deleted by simply clearing the app's data or uninstalling the app.
+The app has no internet access. All user data can be deleted by simply clearing the app's data or uninstalling the app.
 
 ### Information being collected
 
